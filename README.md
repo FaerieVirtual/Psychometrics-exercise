@@ -9,4 +9,7 @@ T skóry i percentily zadávejte jako celá čísla. T skóry budou vždy celá 
 1. rozklikněte https://github.com/FaerieVirtual/Psychometrics-exercise/releases/latest
 2. stáhněte Source code.zip
 3. extrahujte
-4. spusťte Psychometrics Exercise App
+4. vlezte do složky win-x64
+5. spusťte Psychometrics Exercise, která má vpravo označení Application
+
+**Program běží jen na windows**
